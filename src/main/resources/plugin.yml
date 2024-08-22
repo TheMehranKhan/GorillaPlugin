@@ -1,0 +1,4 @@
+name: Com.themehrankhan.gorilla
+version: '${project.version}'
+main: gorilla.com.themehrankhan.gorilla.Com.themehrankhan.gorilla
+api-version: 1.21
